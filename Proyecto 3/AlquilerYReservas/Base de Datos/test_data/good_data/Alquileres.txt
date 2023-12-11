@@ -1,0 +1,5 @@
+uwu,Activo,Sede_Bogota,Sede_Bogota,2023-12-08 13:28,2023-12-08 13:28,0,Entrega 3\AlquilerYReservas\Base de Datos\Facturas\Factura0.pdf,[],false,6000.0
+uwu,Activo,Sede_Chia,Sede_Cajica,2023-12-08 13:28,2023-12-08 13:28,1,Entrega 3\AlquilerYReservas\Base de Datos\Facturas\Factura1.pdf,[],false,7000.0
+uwu,Activo,Sede_Cajica,Sede_Cajica,2023-12-08 13:29,2023-12-14 00:00,2,Entrega 3\AlquilerYReservas\Base de Datos\Facturas\Factura2.pdf,[],false,2500.0
+uwu,Activo,Sede_Bogota,Sede_Bogota,2023-12-11 00:00,2023-12-14 00:00,3,Entrega 3\AlquilerYReservas\Base de Datos\Facturas\Factura3.pdf,[],false,18000.0
+uwu,Activo,Sede_Bogota,Sede_Bogota,2023-12-17 00:00,2023-12-21 00:00,4,Entrega 3\AlquilerYReservas\Base de Datos\Facturas\Factura4.pdf,[],false,24000.0

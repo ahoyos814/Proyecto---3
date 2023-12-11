@@ -1,0 +1,16 @@
+-------------------------
+ID de ALQUILER: 7000
+Nombre: null
+Numero de contacto: 0
+Sede Incial: lujo
+Sede Final: Seguro de Lesiones Personales
+Fecha Incial: 2023-12-30 00:00
+Fecha final: 2023-12-31 00:00
+      --> En total son 1 dias de reserva
+RESUMEN DE COMPRA
+      --> Categoria: lujo $2000
+      --> Seguro: Seguro de Lesiones Personales $5000
+      --> Recargo por entrega en otra sede:  $0
+      Tarifa Diaria Total:  $5000
+      COSTO TOTAL:  $5000
+-------------------------

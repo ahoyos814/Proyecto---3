@@ -1,0 +1,14 @@
+Antes de iniciar la aplicacion ten en cuenta lo siguiente:
+
+    Si quieres entrar como cliente, ya hay un cliente creado:
+    login: hanni password: newjeans
+
+    Si quieres entrar como AdminGlobal:
+    AdminGlobal de Sede_Chia --> login: irene password: redvelvet
+    AdminGlobal de Sede_Cajica --> login: winter password: aespa
+    AdminGlobal de Sede_Bogota --> login: rose password: blackpink
+
+    Si quieres entrar como AdminLocal:
+    AdminLocal de Sede_Chia --> login: joy password: redvelvet
+    AdminLocal de Sede_Cajica --> login: karina password: aespa
+    AdminLocal de Sede_Bogota --> login: jennie password: blackpink

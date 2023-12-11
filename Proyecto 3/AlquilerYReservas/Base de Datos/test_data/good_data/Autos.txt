@@ -1,0 +1,3 @@
+lujo,AUU-123,Lamborghini,Veneno,negro,automatico,1,Sede_Chia,false,false,false,2023-12-08 13:28,1-,Automovil,0.0
+small,SHA-123,Renault,Twingo,rosado,manual,2,Sede_Cajica,false,false,false,2023-12-14 00:00,2-,Automovil,0.0
+van,SHY-000,Renault,kangoo,blanco,automatico,4,Sede_Bogota,false,false,false,2023-12-21 00:00,0-3-4-,Automovil,0.0

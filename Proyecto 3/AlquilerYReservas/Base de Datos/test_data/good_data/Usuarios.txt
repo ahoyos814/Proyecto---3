@@ -1,0 +1,12 @@
+karina,aespa,adminLocal,Sede_Cajica
+uwu,uwu,uwu,123,uwu,Entrega 3\AlquilerYReservas\Base de Datos\FotosCedulas\hanni.webp,123,uwu,2003-09-05 00:00,Entrega 3\AlquilerYReservas\Base de Datos\FotosCedulas\hanni.webp,asfd,234,2089-09-01 00:00,234
+jennie,blackpink,adminLocal,Sede_Bogota
+joy,redvelvet,adminLocal,Sede_Chia
+owo,owo,owo,123,owo,Entrega 3\AlquilerYReservas\Base de Datos\FotosCedulas\hanni.webp,123,asdf,2003-09-05 00:00,Entrega 3\AlquilerYReservas\Base de Datos\FotosCedulas\hanni.webp,12134,1324,2012-12-01 00:00,123
+hanni,newjeans,hanni,4,Australia,Entrega 3\AlquilerYReservas\Base de Datos\FotosCedulas\hanni.webp,4,Corea Del Sur,2004-10-06 14:34,Entrega 3\AlquilerYReservas\Base de Datos\FotosCedulas\hanni.webp,VISA,4,2004-10-06 14:34,4
+lisa,blackpink,empleado,Sede_Bogota
+wendy,redvelvet,empleado,Sede_Chia
+winter,aespa,adminGlobal,Sede_Cajica
+rose,blackpink,adminGlobal,Sede_Bogota
+ningning,aespa,empleado,Sede_Cajica
+irene,redvelvet,adminGlobal,Sede_Chia

@@ -1,0 +1,16 @@
+-------------------------
+ID de ALQUILER: 8
+Nombre: owo
+Numero de contacto: 123
+Sede Incial: Sede_Bogota
+Sede Final: Sede_Bogota
+Fecha Incial: 2023-12-15 00:00
+Fecha final: 2023-12-16 00:00
+      --> En total son 1 dias de reserva
+RESUMEN DE COMPRA
+      --> Categoria: lujo $2000
+      --> Seguro: Ninguno $0
+      --> Recargo por entrega en otra sede:  $0
+      Tarifa Diaria Total:  $2000
+      COSTO TOTAL:  $2000
+-------------------------

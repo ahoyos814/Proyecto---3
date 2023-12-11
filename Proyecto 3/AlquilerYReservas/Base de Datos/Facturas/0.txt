@@ -1,0 +1,16 @@
+-------------------------
+ID de ALQUILER: 0
+Nombre: hanni
+Numero de contacto: 4
+Sede Incial: Sede_Cajica
+Sede Final: Sede_Cajica
+Fecha Incial: 2003-09-05 00:00
+Fecha final: 2003-09-06 00:00
+      --> En total son 1 dias de reserva
+RESUMEN DE COMPRA
+      --> Categoria: lujo $2000
+      --> Seguro: Seguro de Lesiones Personales $5000
+      --> Recargo por entrega en otra sede:  $0
+      Tarifa Diaria Total:  $7000
+      COSTO TOTAL:  $7000
+-------------------------

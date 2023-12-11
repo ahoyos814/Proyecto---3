@@ -1,0 +1,4 @@
+Solo corre en vscode el proyecto, eclipse nos dio muchos problemas con los paths
+y solo conseguimos que corriera en vscode.
+Tambien es necesario tener JavaFX instalado para correr el programa
+por si acaso, java 8 JDK viene con javaFX (a partir de 11 JDK ya no esta)

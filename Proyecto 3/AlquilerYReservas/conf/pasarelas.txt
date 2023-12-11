@@ -1,0 +1,4 @@
+uniandes.dpoo.PayPal
+uniandes.dpoo.Payu
+uniandes.dpoo.Sire
+uniandes.dpoo.ApplePay

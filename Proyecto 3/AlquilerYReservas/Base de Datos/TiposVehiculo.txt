@@ -1,0 +1,6 @@
+Automovil,10
+Moto,150
+atv,100
+Camion,10
+Bicicleta electrica,100
+Bus,50

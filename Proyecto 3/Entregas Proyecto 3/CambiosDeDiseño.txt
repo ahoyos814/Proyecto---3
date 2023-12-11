@@ -1,0 +1,13 @@
+Cambios al diseño:
+Se añade una clase licencia de conduccion
+Se añade una clase metodo de pago
+Se añadio "private HashMap<String, Cliente> clientes;" a sistema 
+Se añadio el metodo existeUsuario() a Sistema 
+mostrarOpciones() ahora recive como parametro sistema en las consolas
+Se añade el parametro "String sede" a la funcion haySuficientesAutos() en sistema
+Se añadio una nueva clase "medioDePago"
+Se añado una nueva clase "LicenciaConduccion"
+Se añadio un nuevo atributo a sistema, "recargoPorEntregarEnOtraSede"
+Se añade una nueva clase "EscogerFoto"
+Se cambio el HashMap de conductores adicionales por un ArrayList de licencias
+No se implemento hacerPagoInicial()

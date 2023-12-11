@@ -1,0 +1,16 @@
+-------------------------
+ID de ALQUILER: 1
+Nombre: hanni
+Numero de contacto: 4
+Sede Incial: Sede_Chia
+Sede Final: Sede_Bogota
+Fecha Incial: 2003-09-07 00:00
+Fecha final: 2003-09-08 00:00
+      --> En total son 1 dias de reserva
+RESUMEN DE COMPRA
+      --> Categoria: van $1000
+      --> Seguro: Seguro de Lesiones Personales $5000
+      --> Recargo por entrega en otra sede:  $500
+      Tarifa Diaria Total:  $6000
+      COSTO TOTAL:  $6500
+-------------------------

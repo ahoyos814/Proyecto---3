@@ -1,0 +1,3 @@
+Ninguno,0
+Seguro de Lesiones Personales,5000
+Seguro de choque,5000
